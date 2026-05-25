@@ -1,6 +1,6 @@
 # Praktikum PHP - SB Admin 2
 
-# Nama Pemilik Repository
+## Nama Pemilik Repository
 
 - Nama : Abdul Hayyi
 - NPM : 2410010612
