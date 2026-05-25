@@ -9,7 +9,7 @@
 - Dosen : Mirza Yogy Kurniawan
 - Semester : 4
 - Tugas : Praktikum PHP - SB Admin 2
-- Link Tugas (Google Drive) : 
+- Link Modul Tugas (Google Drive) : https://drive.google.com/file/d/15OSc6F64Ur-K-y_Ki9SeFOixXM892YSD/view?usp=drive_link
 
 ## Detail Tambahan :
 1. File dan folder dari sesi 1 - 8
